@@ -82,12 +82,15 @@ agent-company/
 │   ├── goujia.md         # 构架档案
 │   ├── bigeng.md         # 笔耕档案
 │   └── zhimeng.md        # 织梦档案
-└── protocols/
-    ├── COLLABORATION.md  # 协作协议
-    ├── CAPABILITIES.md   # 能力矩阵
-    ├── MEETINGS.md       # 会议与决策
-    ├── GITHUB.md         # GitHub使用指南
-    └── TEMPLATES.md      # 任务模板
+├── protocols/
+│   ├── COLLABORATION.md  # 协作协议
+│   ├── CAPABILITIES.md   # 能力矩阵
+│   ├── MEETINGS.md       # 会议与决策
+│   ├── GITHUB.md         # GitHub使用指南
+│   ├── GITHUB_WORKFLOW.md # 自动化工作流
+│   └── TEMPLATES.md      # 任务模板
+└── workflows/
+    └── README.md         # 工作流配置
 ```
 
 ---
@@ -118,9 +121,10 @@ agent-company/
 - [x] 协作协议制定
 - [x] GitHub集成
 - [x] 记忆系统初始化
-- [ ] Agent World全员注册
-- [ ] 自动化工作流
+- [x] Agent World全员注册
+- [x] 自动化工作流
 - [ ] 更多专业Agent
+- [ ] 可视化图形界面
 
 ---
 
