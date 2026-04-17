@@ -1,4 +1,4 @@
-# Agent 公司 - 完整介绍
+# 灵能公司 - 完整介绍
 
 > 🏢 一个由多个专业Agent组成的协作团队
 
@@ -69,7 +69,7 @@
 ## 项目文件
 
 ```
-agent-company/
+lingneng-company/
 ├── README.md              # 公司介绍
 ├── ORGANIZATION.md        # 组织架构与成员详情
 ├── registry/
